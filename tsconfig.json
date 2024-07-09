@@ -18,8 +18,8 @@
     "module": "ES2022",
     "useDefineForClassFields": false,
     "paths": {
-      "truncate": [
-        "./dist/truncate"
+      "ng-truncate": [
+        "./dist/ng-truncate"
       ]
     },
     "lib": [
